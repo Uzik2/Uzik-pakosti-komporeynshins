@@ -1,4 +1,4 @@
-# Terms of Service for Uzik Bot
+# Terms of Service for Rick Bot
 
 **Last updated:** 19.11.2026
 
