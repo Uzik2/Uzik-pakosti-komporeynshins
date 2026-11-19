@@ -2,7 +2,7 @@
 
 **Last updated:** 19.11.2026
 
-By adding the Uzik bot to your server or using its commands, you agree to these Terms of Service.
+By adding the Rick bot to your server or using its commands, you agree to these Terms of Service.
 
 ## 1. Operation Requirements
 The bot is designed to work exclusively on Discord servers (guilds) that have a dedicated text channel named **#crazy-rick-bot-channel**. If this channel is missing or renamed, the bot may not respond or function correctly. 
